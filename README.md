@@ -2,8 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Pursuing BSc in CSE
-- 🌱 I’m currently learning ... AL, ML, DL, RL
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn Profile](https://www.linkedin.com/in/rafiad-sadat-shahir-5359651ba)
-- 😄 Pronouns: ... He/His
+- I am currently working as a Lecturer of CSE Department of BRAC University
+- I work on Brain Inspired AI, Quantum Neural Networks
+- Reach me through ... [LinkedIn Profile](https://www.linkedin.com/in/rafiad-sadat-shahir-5359651ba), [Twitter Profile](https://x.com/rafiadsadat14)
